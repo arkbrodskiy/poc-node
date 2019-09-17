@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/arkbrodskiy/poc-node/issues"
   },
-  "homepage": "https://github.com/arkbrodskiy/poc-node#readme"
+  "homepage": "https://github.com/arkbrodskiy/poc-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
