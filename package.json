@@ -1,0 +1,23 @@
+{
+  "name": "poc-node",
+  "version": "1.0.0",
+  "description": "This is the repo to try Node out",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arkbrodskiy/poc-node.git"
+  },
+  "keywords": [
+    "poc",
+    "node"
+  ],
+  "author": "Ark Brodskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arkbrodskiy/poc-node/issues"
+  },
+  "homepage": "https://github.com/arkbrodskiy/poc-node#readme"
+}
