@@ -11,6 +11,10 @@ app.get("/", function(req, res){
     res.render("home")
 });
 
+app.get("/goose", function(req, res){
+    res.render("goose")
+});
+
 
 app.listen(3000, function(){
     console.log("Serving app on port 3000");
